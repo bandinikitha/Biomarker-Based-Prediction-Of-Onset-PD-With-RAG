@@ -1,0 +1,5 @@
+Subgroup,n_samples,Pos_Rate,AUROC,AUPRC
+age_at_baseline=64.83230663928816,2,0.5,1.0,-1.0
+age_at_baseline=71.41409993155374,2,0.5,1.0,-1.0
+RBD_slope=0.0,46,0.13043478260869565,1.0,-1.0
+UPSIT_slope=0.0,141,0.0425531914893617,1.0,-1.0
