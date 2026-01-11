@@ -14,7 +14,7 @@ PERSIST_DIR = os.path.join(os.path.dirname(__file__), "vectorstore")
 EMBED_MODEL = "all-MiniLM-L6-v2"  # Must match ingestion script
 GROQ_API_KEY = os.getenv(
     # Ensure this is correct
-    "GROQ_API_KEY", "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")
+    "GROQ_API_KEY", "")
 # Changed to use a newer model
 DEFAULT_GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
